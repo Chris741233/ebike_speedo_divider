@@ -8,6 +8,8 @@ Digispark Attiny85, install and doc :
 https://tuxamito.com/wiki/index.php/Digispark  
 You can find Digispark Attiny85 modules for less than 2$ on Aliexpress !
 
+note: If you do not want to lose the bike warranty you can buy a speedometer cable according to your model.
+
 ### Diagram with magnetic reed switch, 2 wire 
 <p align="left">
   <img src="./docs/reed_diagram.jpg" width="700" title="reed diagram">
