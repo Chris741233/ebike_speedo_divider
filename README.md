@@ -25,3 +25,7 @@ note: If you do not want to lose the bike warranty you can buy a speedometer cab
   <img src="./docs/led_digispark.jpg" width="500" title="digispark led">
 </p>
 
+#### Note
+> *Be advised! Doing any changes to your controller might lead to damage.*  
+*I won’t be held responsible for any kind of damage you might induce to your controller, motor, gears, bicycle or yourself.* 
+*Do what you like at your own risk!* 
