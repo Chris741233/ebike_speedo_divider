@@ -7,13 +7,21 @@ Description : E-bike hacking, speedometer divider (signal / 2)
 - expl: if 30Km/h real, ebike read 15Km/h
 Choose diagram reed switch (2 wire) or hall sensor (3 wire, see docs)
 
-Board       : Digispark Attiny85 (or Attiny85 alone)
+Source of this code  : Github: https://github.com/Chris741233/ebike_speedo_divider 
+License              : MIT
 
-Source/Doc  : Github: https://github.com/Chris741233/ebike_speedo_divider 
-License     : MIT
+--------------------
 
-Digispark Attiny85, install and doc :
-https://tuxamito.com/wiki/index.php/Digispark
+Board              : tested with Digispark Attiny85 
+Arduino IDE        : Digistump AVR Board, ArminJo version  1.7.5
+Board firmware     : 2.6                      
+Clock              : you can choose 16MHz no USB
+Micronucleus       : v2.5, Recommended (6586 byte avail.)
+Install board, see : https://github.com/ArminJo/DigistumpArduino
+
+Note: by default board are burned with old 1.6.x firmware, its also Ok with correct IDE config
+
+
 Power via USB or External Source (regulated 5v or 7-35v, 12v or less recommended with automatic selection)
 On-board 500ma 5V Regulator
 
