@@ -12,14 +12,14 @@ License              : MIT
 
 --------------------
 
-Board              : tested with Digispark Attiny85 
-Arduino IDE        : Digistump AVR Board, ArminJo version  1.7.5
-Board firmware     : 2.6                      
-Clock              : you can choose 16MHz no USB
-Micronucleus       : v2.5, Recommended (6586 byte avail.)
-Install board, see : https://github.com/ArminJo/DigistumpArduino
+Board                 : tested with Digispark Attiny85 
+Arduino IDE (1.8.19)  : Digistump AVR Board, ArminJo version  1.7.5
+Board firmware        : 2.6                      
+Clock                 : you can choose 16MHz no USB and Recommended (6586 byte avail.)
+Micronucleus          : v2.5 
+Install board, see    : https://github.com/ArminJo/DigistumpArduino
 
-Note: by default board are burned with old 1.6.x firmware, its also Ok with correct IDE config
+Note: by default Digispark board are burned with old 1.6.x firmware, its also Ok with correct IDE config
 
 
 Power via USB or External Source (regulated 5v or 7-35v, 12v or less recommended with automatic selection)
