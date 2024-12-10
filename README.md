@@ -10,6 +10,8 @@ You can find Digispark Attiny85 modules for less than 2$ on Aliexpress !
 
 note: If you do not want to lose the bike warranty you can buy a speedometer cable according to your model.
 
+Forum Cyclurba (french) : https://cyclurba.fr/forum/744467/arduino-hacking-e-bike-speedometer.html?discussionID=31211
+
 ### Diagram with magnetic reed switch, 2 wire 
 <p align="left">
   <img src="./docs/reed_diagram.jpg" width="700" title="reed diagram">
